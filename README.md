@@ -1,7 +1,7 @@
 # HosAppointmentSys
 Hospital Appointment System
 
-An OpenSource Smart Appointment system developed on LAMP Stack for devpost openshift hackathon.
+An OpenSource Smart Appointment system to check doctor's availability, developed on LAMP Stack for devpost openshift hackathon.
 Feel Free to contribute.
 
 #Exporting the database:
